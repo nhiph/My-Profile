@@ -42,23 +42,6 @@ CMS: Student Management, People Management in Global Scope of Company.
 
 ---
 
-## 👩‍💻 Work Experience Highlights
-
-### 🔧 Frontend Software Engineer @ ATG (Apr 2022 – Jul 2024)
-- Built core platform used across European car trading ecosystems.
-- Integrated third-party APIs, built responsive layouts, and maintained testing standards.
-- Collaborated across time zones and contributed to Agile processes and CI/CD pipelines.
-
-### 💼 Freelancer Frontend Developer @ ABET CSE (Sep 2021 – Mar 2022)
-- Migrated monolithic system to a modern SPA with React.
-- Built features with Redux, JWT authentication, and Ant Design components.
-
-### 🧠 JavaScript Fullstack Apprentice @ NAB WeCamp (Mar 2025 – Present)
-- Hands-on experience with MERN stack.
-- Practiced algorithms and low-level JS concepts.
-
----
-
 ## 🎓 Education
 
 **Bachelor's Degree**  
