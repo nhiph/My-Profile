@@ -9,9 +9,7 @@
 
 ## 💼 About Me
 
-I’m a passionate **JavaScript** developer building dynamic, scalable web applications. I specialize in **Vue.js**, **React**, and **Node.js**, and bring a solid understanding of **RESTful APIs**, **GraphQL**, and **cloud services** like AWS. With a background in Agile development and testing (Jest, Cypress), I strive to deliver clean, maintainable, and performant code. 
-
-I'm currently deepening my fullstack skills through the **NAB WeCamp Fullstack JavaScript Apprenticeship**, where I’m working on a MERN-based project and exploring advanced concepts in JavaScript and backend development.
+I’m a passionate **JavaScript** developer building dynamic, scalable web applications. I specialize in **Vue.js**, **React**, and **Node.js**, and bring a solid understanding of **RESTful APIs**, **GraphQL**, and **cloud services** like AWS. With a background in Agile development and testing (Jest, Cypress), I strive to deliver clean, maintainable, and performant code.  
 
 ---
 
